@@ -38,11 +38,7 @@ while True :
  
 box(pos=vec(-2,0,0))
      
-
-
-
-
-
+box(texture = "https://static.wikia.nocookie.net/splatoon/images/4/46/S3_promo_screenshot_story_Alterna_00.jpg/revision/latest/top-crop/width/360/height/450?cb=20211002215941",size=vec(5,7,0.5),pos=vec(0,0,40))
 
     
 
